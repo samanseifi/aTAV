@@ -34,3 +34,7 @@ values the higher performance the material has in mechanical strength and stiffn
 **Lower peformance probability (P_l):** Is defined as the probability of performing any lot lower than the rest of the lots.
 
 **Higher peformance probability (P_h):** Is defined as the probability of performing any lot higher than the rest of the lots.
+
+For example, a material with high P_l has very low P_h, and vice versa.
+
+The material that performs around **P_l ~ P_h ~ 0.5** considers the average performance or a *typical* lot. The lowest performance is the material with the least P_h (essentially zero), and the highest performance is the material with the most P_l.
