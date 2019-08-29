@@ -31,9 +31,9 @@ The probability of mechanical performance is of interest.
 **Mechanical performance:** Mechanical performance of a material lot is defined via its Young's modulus, yield strength and ultimate strength. The higher these 
 values the higher performance the material has in mechanical strength and stiffness. 
 
-**Lower peformance probability (P_l):** Is defined as the probability of performing any lot lower than the rest of the lots.
+**Lower peformance probability (P_l):** Is defined as the probability of performing any lot lower than the rest of the lots within some inference space (~4%).
 
-**Higher peformance probability (P_h):** Is defined as the probability of performing any lot higher than the rest of the lots.
+**Higher peformance probability (P_h):** Is defined as the probability of performing any lot higher than the rest of the lots within some error space (~4%).
 
 For example, a material with high P_l has very low P_h, and vice versa.
 
